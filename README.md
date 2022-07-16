@@ -1,5 +1,2 @@
-# GitHub Pagesのテーマを使ってみる
-レイアウトを決めるCSSとかHTMLがどこかに置いてあるのかな？仕組みがわかっていません。
-
-# ここにブログを作ればいいんじゃない？
-なんかそれが一番楽ちんな気がする。
+https://zenn.dev/negiboudu/scraps/f837f8a00391de
+GitHub Pagesに関するメモはこちらにまとめています。
